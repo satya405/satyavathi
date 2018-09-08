@@ -1,5 +1,5 @@
 n = int(input())
-order = len(str(num))
+order = len(str(n))
 sum = 0
 temp = n
 while temp > 0:
